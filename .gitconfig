@@ -1,0 +1,5 @@
+[credential "https://gitlab-aws.svara.id"]
+	provider = generic
+[user]
+	email = mada.ghafuri@gmail.com
+	name = madaghafuri

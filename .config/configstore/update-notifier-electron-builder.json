@@ -1,0 +1,10 @@
+{
+	"optOut": false,
+	"lastUpdateCheck": 1658586197780,
+	"update": {
+		"latest": "23.1.0",
+		"current": "23.0.2",
+		"type": "minor",
+		"name": "electron-builder"
+	}
+}
